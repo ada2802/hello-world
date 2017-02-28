@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hi People
+
+Ada here, I like data analysis and programming.
